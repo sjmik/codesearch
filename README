@@ -7,12 +7,6 @@ See https://github.com/google/codesearch.
 For background and an overview of the commands,
 see http://swtch.com/~rsc/regexp/regexp4.html.
 
-To install:
-
-	go get github.com/google/codesearch/cmd/...
-
-Use "go get -u" to update an existing installation.
-
-Russ Cox 
+Russ Cox
 rsc@swtch.com
 June 2015
